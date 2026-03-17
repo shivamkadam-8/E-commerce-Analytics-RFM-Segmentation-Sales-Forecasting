@@ -51,13 +51,6 @@ It combines **RFM (Recency, Frequency, Monetary) analysis**, visualizations, and
 3. Run the app:
 
 
-
----
-
-## Deployment
-- This app is deployed on **[Streamlit Cloud](https://share.streamlit.io/)**  
-- URL: `https://share.streamlit.io/yourusername/ecommerce_project/app.py`
-
 ---
 
 ## Key Learning
